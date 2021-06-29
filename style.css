@@ -49,7 +49,7 @@ header {
 main {
   padding: 1rem;
   grid-area: main;
-  background: white;
+  background: #FFFFFF;
   padding-right: 10rem;
   padding-left: 4rem;
   color: #ebeced;
