@@ -6,6 +6,9 @@ a:link { color: #2e00c4; text-decoration: none}
 a:visited { color: #2e00c4; text-decoration: none}
 a:hover { color: #2e00c4; text-decoration: none;}
 a:active { color: #2e00c4; text-decoration: none}
+a {
+  color: #2e00c4;
+}
 
 body {
   margin: 0;
@@ -38,7 +41,7 @@ header {
   grid-area: header;
   text-align: center;
   background: #FFFFFF;
-  color: #2e00c4;
+  color: black;
   word-spacing: 10rem;
   font-family: Arial;
   font-style: italic;
@@ -54,6 +57,7 @@ main {
   padding-left: 4rem;
   color: #ebeced;
 }
+
 nav {
   grid-area: nav;
   display: flex;
