@@ -95,16 +95,10 @@ nav * {
     justify-content: center;
   }
 
-.section1 {
-	justify-content: right;
-	text-align: right;
+div.a {
+  text-align: center;
 }
 
-#grid {
-  display: grid;
-  grid-template-columns: repeat(1fr, 3fr, 1fr);
-
-}
 
 	
 /* Based on Bootstrap, extra-small to small */
