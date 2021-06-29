@@ -27,6 +27,7 @@ footer {
   padding-right: 10rem;
   padding-left: 4rem;
   grid-area: footer;
+grid-template-columns: 1fr 4fr 1fr;
   background-color: #FFFFFF;
   text-align: center;
   font-size: 1rem;
