@@ -23,11 +23,11 @@ body {
     "footer footer";
 }
 footer {
-  padding-top: 1rem;
-  padding-right: 10rem;
-  padding-left: 4rem;
+  padding-top: 3rem;
+  padding-right: 20rem;
+  padding-left: 20rem;
   grid-area: footer;
-grid-template-columns: 1fr 4fr 1fr;
+  grid-template-columns: 1fr 4fr 1fr;
   background-color: #FFFFFF;
   text-align: center;
   font-size: 1rem;
