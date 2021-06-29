@@ -93,6 +93,11 @@ nav * {
     grid-template-columns: 245px 245px 245px;
     justify-content: center;
   }
+
+.section1 {
+	justify-content: right;
+}
+	
 /* Based on Bootstrap, extra-small to small */
 @media (min-width: 576px) {
   
